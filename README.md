@@ -11,19 +11,19 @@ fortune lyrics
 
 ## Statistics
 
-Number of songs: 620
+Number of songs: 671
 
 Languages:
 
 |Language|Sentences|Percentage|
 |--|--|--|
-|total|8330|100.00%|
-|zh-yue|6008|72.12%|
-|zh-CN|1306|15.68%|
-|en|471|5.65%|
-|ja|447|5.37%|
-|fr|35|0.42%|
-|ko|28|0.34%|
-|de|14|0.17%|
-|ru|13|0.16%|
-|zh-min-nan|8|0.10%|
+|total|9101|100.00%|
+|zh-yue|6641|72.97%|
+|zh-CN|1421|15.61%|
+|en|494|5.43%|
+|ja|447|4.91%|
+|fr|35|0.38%|
+|ko|28|0.31%|
+|de|14|0.15%|
+|ru|13|0.14%|
+|zh-min-nan|8|0.09%|
